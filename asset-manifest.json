@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.09b5502c.chunk.css",
-    "main.js": "/static/js/main.001607b4.chunk.js",
-    "main.js.map": "/static/js/main.001607b4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f9622a0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f9622a0b.js.map",
-    "static/js/2.4e29b855.chunk.js": "/static/js/2.4e29b855.chunk.js",
-    "static/js/2.4e29b855.chunk.js.map": "/static/js/2.4e29b855.chunk.js.map",
-    "static/js/3.c77267bb.chunk.js": "/static/js/3.c77267bb.chunk.js",
-    "static/js/3.c77267bb.chunk.js.map": "/static/js/3.c77267bb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.35e2e165fb5dfeaff04b6d7928bd76d9.js": "/precache-manifest.35e2e165fb5dfeaff04b6d7928bd76d9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.09b5502c.chunk.css.map": "/static/css/main.09b5502c.chunk.css.map",
-    "static/js/2.4e29b855.chunk.js.LICENSE.txt": "/static/js/2.4e29b855.chunk.js.LICENSE.txt"
+    "main.css": "/thepasswordle/static/css/main.09b5502c.chunk.css",
+    "main.js": "/thepasswordle/static/js/main.001607b4.chunk.js",
+    "main.js.map": "/thepasswordle/static/js/main.001607b4.chunk.js.map",
+    "runtime-main.js": "/thepasswordle/static/js/runtime-main.80a10823.js",
+    "runtime-main.js.map": "/thepasswordle/static/js/runtime-main.80a10823.js.map",
+    "static/js/2.4e29b855.chunk.js": "/thepasswordle/static/js/2.4e29b855.chunk.js",
+    "static/js/2.4e29b855.chunk.js.map": "/thepasswordle/static/js/2.4e29b855.chunk.js.map",
+    "static/js/3.c77267bb.chunk.js": "/thepasswordle/static/js/3.c77267bb.chunk.js",
+    "static/js/3.c77267bb.chunk.js.map": "/thepasswordle/static/js/3.c77267bb.chunk.js.map",
+    "index.html": "/thepasswordle/index.html",
+    "precache-manifest.637200dae84ac8b66c56ac3015b4b65f.js": "/thepasswordle/precache-manifest.637200dae84ac8b66c56ac3015b4b65f.js",
+    "service-worker.js": "/thepasswordle/service-worker.js",
+    "static/css/main.09b5502c.chunk.css.map": "/thepasswordle/static/css/main.09b5502c.chunk.css.map",
+    "static/js/2.4e29b855.chunk.js.LICENSE.txt": "/thepasswordle/static/js/2.4e29b855.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9622a0b.js",
+    "static/js/runtime-main.80a10823.js",
     "static/js/2.4e29b855.chunk.js",
     "static/css/main.09b5502c.chunk.css",
     "static/js/main.001607b4.chunk.js"

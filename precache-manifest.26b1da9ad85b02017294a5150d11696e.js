@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5afc314025d023fc64a7551c9bc7098",
+    "revision": "3b45f22030346bcaa053aa73ad195b9e",
     "url": "/thepasswordle/index.html"
   },
   {

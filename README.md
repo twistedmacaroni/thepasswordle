@@ -2,7 +2,7 @@
 Hi! This is my intro to blockchain  blockchain password manager project. I spent far too long on the UI but I hope it looks pretty neat!
 
 # What it does
-This app allows you to keep your passwords safe on the blockchain. I know it sounds insane to keep passwords on a public blockchain, but relax - it stores the hashes, not the actual passwords! Here's what you can do with it:
+This app allows you to keep your passwords safe on the blockchain. I know it sounds insane to keep passwords on a public blockchain, but it stores the hashes, not the actual passwords. Here's what you can do with it:
 
 1. Keep passwords (they're hashed before they go on-chain)
 2. Put labels on to remember what password is for something
@@ -36,10 +36,11 @@ It was my first time creating a dApp, so I learned lots! I used:
 # How to use it
 
 1. Clone the repo
-2. Run npm install to get everything you need
+2. Run `npm install` to get everything you need
 3. Ensure that you have MetaMask installed with MegaETH testnet configured
 4. Run `npm start` to begin the development server
 5. Attach your MetaMask wallet when asked
+6. The server-based functions and actions require you to confirm them from your MetaMask wallet, so don't feel confused if the 'Processing...' doesn't go away, it's probably there because your confirmation awaits.
 
 # Future development
 
@@ -49,4 +50,4 @@ If I had more time, I would implement:
 3. More customization options for the UI
 4. Support for multiple accounts
 
-# Thanks for checking out my project! This was a lot of work but I learned so much about blockchain development.
+Thanks for checking out my project! This was a lot of work but I learned so much about blockchain development.

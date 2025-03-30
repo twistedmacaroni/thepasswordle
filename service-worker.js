@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thepasswordle/precache-manifest.637200dae84ac8b66c56ac3015b4b65f.js"
+  "/thepasswordle/precache-manifest.5b402fd502be2664a236a43a21d46c87.js"
 );
 
 self.addEventListener('message', (event) => {

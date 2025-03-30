@@ -1,7 +1,7 @@
 # **ThePasswordle**
 Hi! This is my intro to blockchain  blockchain password manager project. I spent far too long on the UI but I hope it looks pretty neat!
 
-## "*What it does**
+## **What it does**
 
 This app allows you to keep your passwords safe on the blockchain. I know it sounds insane to keep passwords on a public blockchain, but it stores the hashes, not the actual passwords. Here's what you can do with it:
 
